@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hooks_examples_1/static/css/main.bcdcc757.css",
+    "main.js": "/hooks_examples_1/static/js/main.5e93ec3f.js",
+    "index.html": "/hooks_examples_1/index.html",
+    "main.bcdcc757.css.map": "/hooks_examples_1/static/css/main.bcdcc757.css.map",
+    "main.5e93ec3f.js.map": "/hooks_examples_1/static/js/main.5e93ec3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcdcc757.css",
+    "static/js/main.5e93ec3f.js"
+  ]
+}
